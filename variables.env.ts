@@ -1,0 +1,3 @@
+const ACCESS_TOKEN_SECRET= "Rishi123"
+
+export default ACCESS_TOKEN_SECRET
